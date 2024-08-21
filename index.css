@@ -6,6 +6,9 @@ body {
 	background-color: rgba(0, 0, 0, 0.5);
 	background-position: center;
 	background-blend-mode: darken;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 
