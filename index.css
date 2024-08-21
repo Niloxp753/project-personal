@@ -3,6 +3,8 @@
 body {
 	background-image: url(home.jpg);
 	font-family: Poppins;
+	background-color: rgba(0, 0, 0, 0.7);
+	background-blend-mode: darken;
 }
 
 
@@ -84,7 +86,7 @@ body {
 	padding-bottom: 5px;
 	font-weight: bold;
 	font-family: Poppins;
-	border: 2px solid black;
+	border: 2px solid red;
 }
 
 #btn1:hover {
@@ -114,6 +116,14 @@ body {
 	margin-bottom: 2em;
 	font-weight: bold;
 	color: red;
+}
+
+.pedido {
+	font-size: 15px;
+	margin-bottom: 2em;
+	font-weight: bold;
+	background-color: whitesmoke;
+	color: black;
 }
 
 #hands {

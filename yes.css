@@ -14,5 +14,11 @@ body {
 				justify-content: center;
 				align-items: center;
 				flex-direction: column;
-				gap:3em;
+				gap: 2em;
+}
+
+.ay{
+	color: black;
+	background-color: whitesmoke;
+	font-size: medium;
 }
