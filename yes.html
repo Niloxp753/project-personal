@@ -30,6 +30,7 @@
 	window.addEventListener('load', function () {
 		var audio = document.getElementById('sound');
 		audio.muted = false;
+		
 		audio.play().catch(error => {
 			// Se o autoplay for bloqueado, lide com o erro aqui.
 			console.log('Autoplay bloqueado: ', error);
