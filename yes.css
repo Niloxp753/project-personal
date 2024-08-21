@@ -3,6 +3,11 @@
 body {
 	background-image: url(nos.jpg);
 	font-family: Poppins;
+	background-size: contain 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	
 }
 
 .kilig img{
