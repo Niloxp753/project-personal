@@ -1,5 +1,9 @@
 
 
+body {
+	background-image: url(nos.jpg);
+	font-family: Poppins;
+}
 
 .kilig img{
 				width: 200px;
