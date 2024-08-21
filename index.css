@@ -3,14 +3,15 @@
 body {
 	background-image: url(home.jpg);
 	font-family: Poppins;
-	background-color: rgba(0, 0, 0, 0.7);
+	background-color: rgba(0, 0, 0, 0.5);
+	background-position: center;
 	background-blend-mode: darken;
 }
 
 
 .g1 {
 
-	
+
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -131,10 +132,11 @@ body {
 #hands {
 	width: 50px;
 	position: absolute;
-	top: 12em;
+	top: 14em;
 	left: 4em;
 	animation: bounce2 2s ease infinite;
 	opacity: 0;
+	background-color: transparent;
 }
 
 #sadman {
